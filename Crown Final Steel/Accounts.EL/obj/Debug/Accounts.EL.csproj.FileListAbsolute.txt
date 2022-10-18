@@ -1,0 +1,67 @@
+D:\CombineAssociatesPrescriber\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\CombineAssociatesPrescriber\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\CombineAssociatesPrescriber\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\CombineAssociatesPrescriber\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\CombineAssociatesPrescriber\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\MehboobTrading\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\MehboobTrading\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\MehboobTrading\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\MehboobTrading\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\MehboobTrading\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\GojraAccount\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\GojraAccount\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\GojraAccount\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\GojraAccount\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\GojraAccount\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\Yousaf Traders\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\Yousaf Traders\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\Yousaf Traders\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\Yousaf Traders\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\Yousaf Traders\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\J&J Pharma\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\J&J Pharma\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\J&J Pharma\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\J&J Pharma\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\J&J Pharma\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\Bader Gojra\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\Bader Gojra\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\Bader Gojra\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\Bader Gojra\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\Bader Gojra\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\Lahore\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\Lahore\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\Lahore\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\Lahore\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\Lahore\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\GreenTechnologySolutions\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\GreenTechnologySolutions\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\GreenTechnologySolutions\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\GreenTechnologySolutions\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\GreenTechnologySolutions\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\DeeJhons\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\DeeJhons\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\DeeJhons\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\DeeJhons\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\DeeJhons\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\PAKANDCORIAN\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\PAKANDCORIAN\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\PAKANDCORIAN\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\PAKANDCORIAN\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\PAKANDCORIAN\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\Final Accounts\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\Final Accounts\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\Final Accounts\Accounts.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\Final Accounts\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\Final Accounts\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\Crown Final Ledger\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\Crown Final Ledger\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\Crown Final Ledger\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\Crown Final Ledger\Accounts.EL\obj\Debug\Accounts.EL.pdb
+D:\Crown Final Ledger\Accounts.EL\obj\Debug\Accounts.EL.csproj.AssemblyReference.cache
+D:\Crown Final Ledger\Accounts.EL\obj\Debug\Accounts.EL.csproj.CoreCompileInputs.cache
+D:\Crown Final Steel\Accounts.EL\bin\Debug\Accounts.EL.dll
+D:\Crown Final Steel\Accounts.EL\bin\Debug\Accounts.EL.pdb
+D:\Crown Final Steel\Accounts.EL\obj\Debug\Accounts.EL.csproj.AssemblyReference.cache
+D:\Crown Final Steel\Accounts.EL\obj\Debug\Accounts.EL.csproj.CoreCompileInputs.cache
+D:\Crown Final Steel\Accounts.EL\obj\Debug\Accounts.EL.dll
+D:\Crown Final Steel\Accounts.EL\obj\Debug\Accounts.EL.pdb

@@ -1,0 +1,61 @@
+D:\CombineAssociatesPrescriber\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\CombineAssociatesPrescriber\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\CombineAssociatesPrescriber\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\CombineAssociatesPrescriber\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\CombineAssociatesPrescriber\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\MehboobTrading\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\MehboobTrading\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\MehboobTrading\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MehboobTrading\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\MehboobTrading\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\GojraAccount\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\GojraAccount\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\GojraAccount\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\GojraAccount\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\GojraAccount\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\Yousaf Traders\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\Yousaf Traders\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\Yousaf Traders\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\Yousaf Traders\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\Yousaf Traders\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\J&J Pharma\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\J&J Pharma\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\J&J Pharma\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\J&J Pharma\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\J&J Pharma\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\Bader Gojra\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\Bader Gojra\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\Bader Gojra\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\Bader Gojra\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\Bader Gojra\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\Lahore\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\Lahore\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\Lahore\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\Lahore\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\Lahore\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\GreenTechnologySolutions\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\GreenTechnologySolutions\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\GreenTechnologySolutions\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\GreenTechnologySolutions\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\GreenTechnologySolutions\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\DeeJhons\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\DeeJhons\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\DeeJhons\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\DeeJhons\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\DeeJhons\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\PAKANDCORIAN\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\PAKANDCORIAN\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\PAKANDCORIAN\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\PAKANDCORIAN\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\PAKANDCORIAN\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\Final Accounts\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\Final Accounts\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\Final Accounts\Accounts.Common\obj\Release\ResolveAssemblyReference.cache
+D:\Final Accounts\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\Final Accounts\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\Crown Final Ledger\Accounts.Common\bin\Release\Accounts.Common.dll
+D:\Crown Final Ledger\Accounts.Common\bin\Release\Accounts.Common.pdb
+D:\Crown Final Ledger\Accounts.Common\obj\Release\Accounts.Common.dll
+D:\Crown Final Ledger\Accounts.Common\obj\Release\Accounts.Common.pdb
+D:\Crown Final Ledger\Accounts.Common\obj\Release\Accounts.Common.csproj.AssemblyReference.cache
+D:\Crown Final Ledger\Accounts.Common\obj\Release\Accounts.Common.csproj.CoreCompileInputs.cache

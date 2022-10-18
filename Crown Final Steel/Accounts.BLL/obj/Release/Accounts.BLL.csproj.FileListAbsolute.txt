@@ -1,0 +1,147 @@
+D:\CombineAssociatesPrescriber\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\CombineAssociatesPrescriber\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\CombineAssociatesPrescriber\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\CombineAssociatesPrescriber\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\CombineAssociatesPrescriber\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\CombineAssociatesPrescriber\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\CombineAssociatesPrescriber\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\CombineAssociatesPrescriber\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\CombineAssociatesPrescriber\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\CombineAssociatesPrescriber\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\CombineAssociatesPrescriber\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\MehboobTrading\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\MehboobTrading\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\MehboobTrading\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\MehboobTrading\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\MehboobTrading\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\MehboobTrading\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\MehboobTrading\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\MehboobTrading\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\MehboobTrading\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\MehboobTrading\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\MehboobTrading\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\GojraAccount\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\GojraAccount\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\GojraAccount\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\GojraAccount\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\GojraAccount\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\GojraAccount\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\GojraAccount\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\GojraAccount\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\GojraAccount\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\GojraAccount\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\GojraAccount\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\Yousaf Traders\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\Yousaf Traders\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\Yousaf Traders\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\Yousaf Traders\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\Yousaf Traders\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\Yousaf Traders\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\Yousaf Traders\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\Yousaf Traders\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\Yousaf Traders\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\Yousaf Traders\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\Yousaf Traders\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\J&J Pharma\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\J&J Pharma\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\J&J Pharma\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\J&J Pharma\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\J&J Pharma\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\J&J Pharma\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\J&J Pharma\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\J&J Pharma\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\J&J Pharma\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\J&J Pharma\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\J&J Pharma\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\Bader Gojra\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\Bader Gojra\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\Bader Gojra\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\Bader Gojra\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\Bader Gojra\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\Bader Gojra\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\Bader Gojra\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\Bader Gojra\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\Bader Gojra\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\Bader Gojra\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\Bader Gojra\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\Lahore\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\Lahore\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\Lahore\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\Lahore\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\Lahore\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\Lahore\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\Lahore\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\Lahore\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\Lahore\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\Lahore\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\Lahore\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\GreenTechnologySolutions\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\GreenTechnologySolutions\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\GreenTechnologySolutions\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\GreenTechnologySolutions\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\GreenTechnologySolutions\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\GreenTechnologySolutions\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\GreenTechnologySolutions\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\GreenTechnologySolutions\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\GreenTechnologySolutions\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\GreenTechnologySolutions\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\GreenTechnologySolutions\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\DeeJhons\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\DeeJhons\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\DeeJhons\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\DeeJhons\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\DeeJhons\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\DeeJhons\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\DeeJhons\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\DeeJhons\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\DeeJhons\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\DeeJhons\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\DeeJhons\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\PAKANDCORIAN\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\PAKANDCORIAN\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\PAKANDCORIAN\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\PAKANDCORIAN\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\PAKANDCORIAN\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\PAKANDCORIAN\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\PAKANDCORIAN\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\PAKANDCORIAN\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\PAKANDCORIAN\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\PAKANDCORIAN\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\PAKANDCORIAN\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\Final Accounts\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\Final Accounts\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\Final Accounts\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\Final Accounts\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\Final Accounts\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\Final Accounts\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\Final Accounts\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\Final Accounts\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\Final Accounts\Accounts.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\Final Accounts\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\Final Accounts\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\Crown Final Ledger\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\Crown Final Ledger\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\Crown Final Ledger\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\Crown Final Ledger\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\Crown Final Ledger\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\Crown Final Ledger\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\Crown Final Ledger\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\Crown Final Ledger\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\Crown Final Ledger\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\Crown Final Ledger\Accounts.BLL\obj\Release\Accounts.BLL.pdb
+D:\Crown Final Ledger\Accounts.BLL\obj\Release\Accounts.BLL.csproj.AssemblyReference.cache
+D:\Crown Final Ledger\Accounts.BLL\obj\Release\Accounts.BLL.csproj.CoreCompileInputs.cache
+D:\Crown Final Ledger\Accounts.BLL\obj\Release\Accounts.BLL.csproj.CopyComplete
+D:\Crown Final Steel\Accounts.BLL\bin\Release\Accounts.BLL.dll
+D:\Crown Final Steel\Accounts.BLL\bin\Release\Accounts.BLL.pdb
+D:\Crown Final Steel\Accounts.BLL\bin\Release\Accounts.Common.dll
+D:\Crown Final Steel\Accounts.BLL\bin\Release\Accounts.DAL.dll
+D:\Crown Final Steel\Accounts.BLL\bin\Release\Accounts.EL.dll
+D:\Crown Final Steel\Accounts.BLL\bin\Release\Accounts.Common.pdb
+D:\Crown Final Steel\Accounts.BLL\bin\Release\Accounts.DAL.pdb
+D:\Crown Final Steel\Accounts.BLL\bin\Release\Accounts.EL.pdb
+D:\Crown Final Steel\Accounts.BLL\obj\Release\Accounts.BLL.csproj.AssemblyReference.cache
+D:\Crown Final Steel\Accounts.BLL\obj\Release\Accounts.BLL.csproj.CoreCompileInputs.cache
+D:\Crown Final Steel\Accounts.BLL\obj\Release\Accounts.BLL.csproj.CopyComplete
+D:\Crown Final Steel\Accounts.BLL\obj\Release\Accounts.BLL.dll
+D:\Crown Final Steel\Accounts.BLL\obj\Release\Accounts.BLL.pdb

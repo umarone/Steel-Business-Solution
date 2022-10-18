@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{487D77AA-7699-449E-8F3F-C204492D98E5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Accounts.BLL</RootNamespace>
+    <AssemblyName>Accounts.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accounts.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Accounts.Common\bin\Debug\Accounts.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Accounts.DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Accounts.DAL\bin\Debug\Accounts.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="Accounts.EL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Accounts.EL\bin\Debug\Accounts.EL.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBOperations\BackupBLL.cs" />
+    <Compile Include="OldMisc\BankPaymentVoucherBLL.cs" />
+    <Compile Include="OldMisc\BankReceiptVoucherBLL.cs" />
+    <Compile Include="OldMisc\CashReceiptBLL.cs" />
+    <Compile Include="OutSource Work\OutSourceWorkTypeBLL.cs" />
+    <Compile Include="OutSource Work\OutSourceWorkHeadBLL.cs" />
+    <Compile Include="Setup\CategoryBLL.cs" />
+    <Compile Include="Setup\ProjectBLL.cs" />
+    <Compile Include="Setup\SoftwareChecksBLL.cs" />
+    <Compile Include="Setup\SoftwareTabsBLL.cs" />
+    <Compile Include="Setup\SoftwareTypesBLL.cs" />
+    <Compile Include="Setup\StockAdjustmentsBLL.cs" />
+    <Compile Include="Setup\TradingBLL.cs" />
+    <Compile Include="Setup\UOMBLL.cs" />
+    <Compile Include="Stock\GeneralStockIssuanceDetailsBLL.cs" />
+    <Compile Include="Stock\GeneralStockIssuanceHeadBLL.cs" />
+    <Compile Include="Transactions\ChequesBLL.cs" />
+    <Compile Include="Transactions\IncomeBLL.cs" />
+    <Compile Include="Setup\ItemsBLL.cs" />
+    <Compile Include="OldMisc\JournalVoucherBLL.cs" />
+    <Compile Include="Setup\ModulesBLL.cs" />
+    <Compile Include="Transactions\OpeningBalanceBLL.cs" />
+    <Compile Include="OldMisc\PaymentVoucherBLL.cs" />
+    <Compile Include="Setup\PersonsBLL.cs" />
+    <Compile Include="OldMisc\PrescriberSampleDetailVoucherBLL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transactions\PurchaseDetailBLL.cs" />
+    <Compile Include="Transactions\PurchaseHeadBLL.cs" />
+    <Compile Include="Transactions\SalesDetailBLL.cs" />
+    <Compile Include="Transactions\SalesHeadBLL.cs" />
+    <Compile Include="OldMisc\PrescriberSampleVoucherBLL.cs" />
+    <Compile Include="Setup\AccountsBLL.cs" />
+    <Compile Include="Setup\CompanyBLL.cs" />
+    <Compile Include="Transactions\StockRecieptBLL.cs" />
+    <Compile Include="Transactions\SampleDetailBLL.cs" />
+    <Compile Include="Transactions\SamplesHeadBLL.cs" />
+    <Compile Include="Transactions\TransactionBLL.cs" />
+    <Compile Include="Transactions\BankBLL.cs" />
+    <Compile Include="Transactions\CashBLL.cs" />
+    <Compile Include="Users\RoleBLL.cs" />
+    <Compile Include="Users\UserModulesBLL.cs" />
+    <Compile Include="Users\UserModulesPermissionsBLL.cs" />
+    <Compile Include="Users\UserRolesBLL.cs" />
+    <Compile Include="Users\UsersBLL.cs" />
+    <Compile Include="Transactions\VoucherBLL.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,67 @@
+D:\CombineAssociatesPrescriber\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\CombineAssociatesPrescriber\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\CombineAssociatesPrescriber\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\CombineAssociatesPrescriber\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\CombineAssociatesPrescriber\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\MehboobTrading\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\MehboobTrading\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\MehboobTrading\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\MehboobTrading\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\MehboobTrading\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\GojraAccount\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\GojraAccount\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\GojraAccount\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\GojraAccount\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\GojraAccount\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\Yousaf Traders\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\Yousaf Traders\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\Yousaf Traders\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\Yousaf Traders\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\Yousaf Traders\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\J&J Pharma\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\J&J Pharma\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\J&J Pharma\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\J&J Pharma\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\J&J Pharma\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\Bader Gojra\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\Bader Gojra\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\Bader Gojra\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\Bader Gojra\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\Bader Gojra\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\Lahore\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\Lahore\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\Lahore\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\Lahore\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\Lahore\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\GreenTechnologySolutions\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\GreenTechnologySolutions\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\GreenTechnologySolutions\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\GreenTechnologySolutions\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\GreenTechnologySolutions\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\DeeJhons\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\DeeJhons\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\DeeJhons\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\DeeJhons\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\DeeJhons\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\PAKANDCORIAN\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\PAKANDCORIAN\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\PAKANDCORIAN\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\PAKANDCORIAN\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\PAKANDCORIAN\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\Final Accounts\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\Final Accounts\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\Final Accounts\Accounts.EL\obj\Release\ResolveAssemblyReference.cache
+D:\Final Accounts\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\Final Accounts\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\Crown Final Ledger\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\Crown Final Ledger\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\Crown Final Ledger\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\Crown Final Ledger\Accounts.EL\obj\Release\Accounts.EL.pdb
+D:\Crown Final Ledger\Accounts.EL\obj\Release\Accounts.EL.csproj.AssemblyReference.cache
+D:\Crown Final Ledger\Accounts.EL\obj\Release\Accounts.EL.csproj.CoreCompileInputs.cache
+D:\Crown Final Steel\Accounts.EL\bin\Release\Accounts.EL.dll
+D:\Crown Final Steel\Accounts.EL\bin\Release\Accounts.EL.pdb
+D:\Crown Final Steel\Accounts.EL\obj\Release\Accounts.EL.csproj.AssemblyReference.cache
+D:\Crown Final Steel\Accounts.EL\obj\Release\Accounts.EL.csproj.CoreCompileInputs.cache
+D:\Crown Final Steel\Accounts.EL\obj\Release\Accounts.EL.dll
+D:\Crown Final Steel\Accounts.EL\obj\Release\Accounts.EL.pdb

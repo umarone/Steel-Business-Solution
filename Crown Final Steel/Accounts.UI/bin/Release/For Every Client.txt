@@ -1,0 +1,1083 @@
+ALTER Procedure [Transactions].[Proc_GetMaxPurchaseNumber]           
+@IdProject bigint,          
+@BookNo bigint--,  
+--@IsNetTransaction bit    
+as          
+declare @MaxNumber as bigint          
+if exists(select top 1 * from [Transactions].[PurchaseHead] where Project_Id = @IdProject and BookNo = @BookNo) --and IsNetTransaction = @IsNetTransaction)                                    
+begin                                    
+select @MaxNumber =  isnull(max(VoucherNo),0) from [Transactions].[PurchaseHead] where Project_Id = @IdProject and BookNo = @BookNo --and IsNetTransaction = @IsNetTransaction          
+set @MaxNumber = @MaxNumber + 1                                    
+select @MaxNumber as MaxVoucherNumber                                    
+end                                    
+else                                    
+begin                                    
+set @MaxNumber = 1                                    
+select @MaxNumber as MaxVoucherNumber                                    
+end
+
+Go
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+ALTER Procedure [Transactions].[Proc_GetPurchasesTransactions]              
+@IdVoucher bigint,      
+@IdProject bigint,       
+@BookNo bigint--,               
+--@IsNetTransaction bit              
+as              
+Select A.AccountName,H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,              
+I.ItemName,I.PackingSize            
+from [Transactions].[PurchaseHead] H              
+Inner Join [Transactions].[PurchaseDetail] D ON H.Voucher_Id = D.Voucher_Id              
+Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id   
+Inner Join [Setup].[Accounts] A on A.AccountNo = H.AccountNo                 
+Where H.Voucher_Id = @IdVoucher and H.Project_Id = @IdProject      
+
+
+Go
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_GetPurchasesTransactionsByNumber]                
+@VoucherNo bigint,        
+@IdProject bigint,         
+@BookNo bigint--,                 
+--@IsNetTransaction bit        
+as                
+Select A.AccountName,H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,                
+I.ItemName,I.PackingSize              
+from [Transactions].[PurchaseHead] H                
+Inner Join [Transactions].[PurchaseDetail] D ON H.Voucher_Id = D.Voucher_Id                
+Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id     
+Inner Join [Setup].[Accounts] A on A.AccountNo = H.AccountNo                   
+Where H.VoucherNo = @VoucherNo and H.Project_Id = @IdProject        
+and H.BookNo = @BookNo --and H.IsNetTransaction = @IsNetTransaction
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Alter Procedure [Transactions].[Proc_GetPurchasesSubTransactions]        
+@IdVoucher bigint,         
+@IdProject bigint,        
+@BookNo bigint--,      
+--@IsNetTransaction bit            
+as            
+Select A.AccountNo,A.AccountName,T.TransactionDetail_Id,T.Narration,T.Debit,T.Credit,T.TrackNumber,T.Created_DateTime            
+from [Transactions].[TransactionsDetails] T Inner Join [Transactions].[PurchaseHead] H        
+on T.Voucher_Id = H.Voucher_Id         
+left Join [Setup].[Accounts] A on T.AccountNo = A.AccountNo            
+--left Join [Setup].[Persons] P on P.AccountNo = H.AccountNo            
+Where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.Voucher_Id = @IdVoucher      
+--and P.Project_Id = @IdProject     
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo       
+and T.VType = 'P' and T.Project_Id = @IdProject and T.BookNo = @BookNo      
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    
+ALTER Procedure [Transactions].[Proc_GetMaxPurchaseReturnNumber]         
+@IdProject bigint,            
+@BookNo bigint--,    
+--@IsNetTransaction bit                         
+as        
+declare @MaxNumber as bigint            
+if exists(  
+select top 1 * from [Transactions].[PurchaseReturnHead]   
+where Project_Id = @IdProject and BookNo = @BookNo --and IsNetTransaction = @IsNetTransaction  
+)                                      
+begin                                      
+select @MaxNumber =  isnull(max(VoucherNo),0) from [Transactions].[PurchaseReturnHead] where Project_Id = @IdProject and BookNo = @BookNo --and IsNetTransaction = @IsNetTransaction            
+set @MaxNumber = @MaxNumber + 1                                      
+select @MaxNumber as MaxVoucherNumber                                      
+end                                      
+else                                      
+begin                                      
+set @MaxNumber = 1                                      
+select @MaxNumber as MaxVoucherNumber                                      
+end  
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_GetPurchasesReturnTransactions]              
+@IdVoucher bigint,      
+@IdProject bigint,       
+@BookNo bigint--,               
+--@IsNetTransaction bit           
+as              
+Select H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,              
+I.ItemName,I.PackingSize            
+from [Transactions].[PurchaseReturnHead] H              
+Inner Join [Transactions].[PurchaseReturnDetail] D ON H.Voucher_Id = D.Voucher_Id              
+Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id                  
+Where H.Voucher_Id = @IdVoucher and H.Project_Id = @IdProject      
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo 
+
+Go
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_GetPurchasesReturnTransactionsByNumber]                
+@VoucherNo bigint,        
+@IdProject bigint,         
+@BookNo bigint--,                 
+--@IsNetTransaction bit           
+as                
+Select H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,                
+I.ItemName,I.PackingSize              
+from [Transactions].[PurchaseReturnHead] H                
+Inner Join [Transactions].[PurchaseReturnDetail] D ON H.Voucher_Id = D.Voucher_Id                
+Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id                    
+Where H.VoucherNo = VoucherNo and H.Project_Id = @IdProject        
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo 
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_GetPurchasesReturnSubTransactions]        
+@IdVoucher bigint,           
+@IdProject bigint,          
+@BookNo bigint--,        
+--@IsNetTransaction bit            
+as            
+Select A.AccountNo,A.AccountName,T.TransactionDetail_Id,T.Narration,T.Debit,T.Credit,T.TrackNumber,T.Created_DateTime              
+from [Transactions].[TransactionsDetails] T Inner Join [Transactions].[PurchaseReturnHead] H          
+on T.Voucher_Id = H.Voucher_Id           
+left Join [Setup].[Accounts] A on T.AccountNo = A.AccountNo              
+--left Join [Setup].[Persons] P on P.AccountNo = H.AccountNo              
+Where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.Voucher_Id = @IdVoucher        
+--and P.Project_Id = @IdProject       
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo         
+and T.VType = 'PR' and T.Project_Id = @IdProject and T.BookNo = @BookNo 
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_CreatePurchaseReturnHead]                        
+@IdVoucher BigInt,                    
+@IdProject BigInt,                                  
+@IdUser BigInt,                    
+@SheetNo varchar(50),          
+@BookNo bigint,          
+@TerminalNo bigint,          
+@BiltyNo varchar(50),        
+@VDate datetime,                        
+@AccountNo varchar(50),                     
+@TransactionAccountNo varchar(50),  
+@EmpCode varchar(20),                
+@BillNo varchar(100),                       
+@VDiscription varchar(300)=null,                        
+@BillAmount decimal(18,2),           
+@TotalFreight decimal(18,2),           
+@TotalAmount money,           
+@VAT money,        
+@VATTotalAmount money,    
+@TotalItems decimal(18,2) = null,    
+@TaxPercentage decimal(18,2) = null,    
+@TotalTaxAmount decimal(18,2) = null,    
+@TotalAmountAfterTax decimal(18,2) = null,             
+@IdStockAdjustmentType bigint,              
+@IsNetTransaction bit,           
+@IsImportTransaction bit,              
+@Posted bit                                           
+as                     
+declare @VoucherNo as bigint        
+set @VoucherNo = 1        
+if exists(select top 1 * from [Transactions].[PurchaseReturnHead] where VoucherNo = @VoucherNo and Project_Id = @IdProject and BookNo = @BookNo) --and IsNetTransaction = @IsNetTransaction)              
+begin              
+select @VoucherNo =  max(VoucherNo) from [Transactions].[PurchaseReturnHead] where Project_Id = @IdProject and BookNo = @BookNo-- and IsNetTransaction = @IsNetTransaction         
+set @VoucherNo = @VoucherNo + 1            
+insert into [Transactions].[PurchaseReturnHead]                                 
+(Project_Id,User_Id,SheetNo,BookNo,VoucherNo,TerminalNo,BiltyNo,VDate,AccountNo,TransactionAccountNo,EmpCode,BillNo        
+,VDiscription,BillAmount,TotalFreight,TotalAmount,VAT,VATTotalAmount,TotalItems,TaxPercentage,TotalTaxAmount,TotalAmountAfterTax,StockAdjustmentType_Id,IsNetTransaction,IsImportTransaction,Posted)          
+values (@IdProject,@IdUser,@SheetNo,@BookNo,@VoucherNo,@TerminalNo,@BiltyNo,@VDate,@AccountNo,@TransactionAccountNo,@EmpCode        
+,@BillNo,@VDiscription,@BillAmount,@TotalFreight,@TotalAmount,@VAT,@VATTotalAmount,@TotalItems,@TaxPercentage,@TotalTaxAmount,@TotalAmountAfterTax,@IdStockAdjustmentType,@IsNetTransaction,@IsImportTransaction,@Posted)                
+end              
+else              
+begin              
+  
+insert into [Transactions].[PurchaseReturnHead]                                 
+(Project_Id,User_Id,SheetNo,BookNo,VoucherNo,TerminalNo,BiltyNo,VDate,AccountNo,TransactionAccountNo,EmpCode,BillNo        
+,VDiscription,BillAmount,TotalFreight,TotalAmount,VAT,VATTotalAmount,TotalItems,TaxPercentage,TotalTaxAmount,TotalAmountAfterTax,StockAdjustmentType_Id,IsNetTransaction,IsImportTransaction,Posted)          
+values (@IdProject,@IdUser,@SheetNo,@BookNo,@VoucherNo,@TerminalNo,@BiltyNo,@VDate,@AccountNo,@TransactionAccountNo,@EmpCode        
+,@BillNo,@VDiscription,@BillAmount,@TotalFreight,@TotalAmount,@VAT,@VATTotalAmount,@TotalItems,@TaxPercentage,@TotalTaxAmount,@TotalAmountAfterTax,@IdStockAdjustmentType,@IsNetTransaction,@IsImportTransaction,@Posted)                
+                
+end         
+         
+select @@Identity    
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER procedure [Transactions].[Proc_CreatePurchaseHead]                        
+@IdVoucher BigInt,                    
+@IdProject BigInt,                                  
+@IdUser BigInt,                    
+@SheetNo varchar(50),          
+@BookNo bigint,          
+@TerminalNo bigint,          
+@BiltyNo varchar(50),        
+@VDate datetime,                        
+@AccountNo varchar(50),                     
+@TransactionAccountNo varchar(50),   
+@EmpCode varchar(20),                
+@BillNo varchar(100),                       
+@VDiscription varchar(300)=null,          
+@BillAmount decimal(18,2),        
+@TotalDiscount decimal(18,2),  
+@ExtraDiscount decimal(18,2),   
+@BillAmountAfterDiscount decimal(18,2),   
+@TotalFreight decimal(18,2),                 
+@TotalAmount money,           
+@VAT money,        
+@VATTotalAmount money,        
+@TotalItems decimal(18,2) = null,    
+@TaxPercentage decimal(18,2) = null,    
+@TotalTaxAmount decimal(18,2) = null,    
+@TotalAmountAfterTax decimal(18,2) = null,               
+@IsNetTransaction bit,           
+@IsImportTransaction bit,              
+@Posted bit                        
+as                        
+declare @VoucherNo as bigint        
+set @VoucherNo = 1        
+if exists(select top 1 * from [Transactions].[PurchaseHead] where Project_Id = @IdProject and BookNo = @BookNo) --and IsNetTransaction = @IsNetTransaction)              
+begin              
+        
+select @VoucherNo =  max(VoucherNo) from [Transactions].[PurchaseHead] where Project_Id = @IdProject and BookNo = @BookNo --and IsNetTransaction = @IsNetTransaction         
+set @VoucherNo = @VoucherNo + 1                                      
+insert into [Transactions].[PurchaseHead]                        
+(Project_Id,User_Id,SheetNo,BookNo,VoucherNo,TerminalNo,BiltyNo,VDate,AccountNo,TransactionAccountNo,EmpCode,BillNo        
+,VDiscription,BillAmount,TotalDiscount,ExtraDiscount,BillAmountAfterDiscount,TotalFreight,TotalAmount,VAT,VATTotalAmount,TotalItems,TaxPercentage,TotalTaxAmount,  
+TotalAmountAfterTax,IsNetTransaction,IsImportTransaction,Posted)          
+values (@IdProject,@IdUser,@SheetNo,@BookNo,@VoucherNo,@TerminalNo,@BiltyNo,@VDate,@AccountNo,@TransactionAccountNo,@EmpCode        
+,@BillNo,@VDiscription,@BillAmount,@TotalDiscount,@ExtraDiscount,@BillAmountAfterDiscount,@TotalFreight,@TotalAmount,@VAT,@VATTotalAmount,@TotalItems,@TaxPercentage,@TotalTaxAmount  
+,@TotalAmountAfterTax,@IsNetTransaction,@IsImportTransaction,@Posted)                
+end              
+        
+else               
+begin              
+        
+insert into [Transactions].[PurchaseHead]                        
+(Project_Id,User_Id,SheetNo,BookNo,VoucherNo,TerminalNo,BiltyNo,VDate,AccountNo,TransactionAccountNo,EmpCode,BillNo        
+,VDiscription,BillAmount,TotalDiscount,ExtraDiscount,BillAmountAfterDiscount,TotalFreight,TotalAmount,VAT,VATTotalAmount,TotalItems,TaxPercentage,TotalTaxAmount,  
+TotalAmountAfterTax,IsNetTransaction,IsImportTransaction,Posted)          
+values (@IdProject,@IdUser,@SheetNo,@BookNo,@VoucherNo,@TerminalNo,@BiltyNo,@VDate,@AccountNo,@TransactionAccountNo,@EmpCode        
+,@BillNo,@VDiscription,@BillAmount,@TotalDiscount,@ExtraDiscount,@BillAmountAfterDiscount,@TotalFreight,@TotalAmount,@VAT,@VATTotalAmount,@TotalItems,@TaxPercentage,@TotalTaxAmount  
+,@TotalAmountAfterTax,@IsNetTransaction,@IsImportTransaction,@Posted)                
+                   
+                
+end              
+          
+          
+select @@Identity    
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_GetMaxSalesInvoiceNumber]                              
+@IdProject bigint,    
+@BookNo bigint--,                  
+--@IsNetTransaction bit,    
+--@SaleType int                              
+as                              
+declare @MaxNumber as bigint    
+if exists(select top 1 * from [Transactions].[SalesHead] where Project_Id = @IdProject and BookNo = @BookNo)  --and IsNetTransaction = @IsNetTransaction                             
+begin                              
+select @MaxNumber =  isnull(max(VoucherNo),0) from [Transactions].[SalesHead] where Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction   
+       and BookNo = @BookNo    
+set @MaxNumber = @MaxNumber + 1                              
+select @MaxNumber as MaxVoucherNumber                              
+end                              
+else                              
+begin                              
+set @MaxNumber = 1                              
+select @MaxNumber as MaxVoucherNumber                              
+end
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_CreateSalesHead]                          
+@IdVoucher bigint,                        
+@IdProject bigint,                       
+@IdUser bigint = null,                    
+@SheetNo varchar(50),                    
+@BookNo bigint,                     
+@TerminalNo int,                    
+@BiltyNo varchar(50),                    
+@SampleNo bigint,                        
+@VDate datetime,           
+@DueDate datetime = null,                          
+@AccountNo varchar(50),                       
+@TransactionAccountNo varchar(50),  
+@EmpCode varchar(50),               
+@DeliveryEmployeeAccountNo varchar(50),                  
+@VDiscription nvarchar(max),                             
+@OutWardGatePassNo varchar(50),          
+@CustomerBalance decimal(18,2),        
+@BillAmount decimal(18,2),          
+@TotalDiscount decimal(18,2),    
+@FlatDiscount decimal(18,2),      
+@BillAmountAfterDiscount decimal(18,2),  
+@ExtraDiscount decimal(18,2),     
+@TotalFreight decimal(18,2),                   
+@TotalAmount money,             
+@VAT decimal(18,2),                    
+@VATTotalAmount decimal(18,2),      
+@TotalItems decimal(18,2) = null,    
+@TaxPercentage decimal(18,2) = null,    
+@TotalTaxAmount decimal(18,2) = null,    
+@TotalAmountAfterTax decimal(18,2) = null,                       
+@CreditDays int,                      
+@IsRecieved bit,                    
+@IsNetTransaction bit,                    
+@IsImportTransaction bit,     
+@FreeVoucher decimal(18,2) = null,    
+@CardNo varchar(25) = null,    
+@PaymentType int = null,    
+@CashRecieved decimal(18,2) = null,      
+@CashBalance decimal(18,2) = null,                      
+@Posted bit = null                          
+as                          
+declare @VoucherNo as bigint                   
+set @VoucherNo = 1                   
+if exists(select top 1 * from [Transactions].[SalesHead]  where BookNo = @BookNo and Project_Id = @IdProject) --and IsNetTransaction = @IsNetTransaction)                    
+begin                    
+select @VoucherNo =  isnull(max(VoucherNo),0) from [Transactions].[SalesHead] where BookNo = @BookNo and Project_Id = @IdProject   
+      --and IsNetTransaction = @IsNetTransaction                    
+set @VoucherNo = @VoucherNo + 1                                            
+  
+insert into [Transactions].[SalesHead]                          
+(  
+  Project_Id,User_Id,SheetNo,BookNo,VoucherNo,TerminalNo,BiltyNo,SampleNo,VDate,DueDate,AccountNo,TransactionAccountNo,                   
+  EmpCode,DeliveryEmployeeAccountNo,VDiscription,OutwardgatepassNo,CustomerBalance  
+ ,BillAmount,TotalDiscount,FlatDiscount,BillAmountAfterDiscount,ExtraDiscount,TotalFreight,TotalAmount,VAT,VATTotalAmount,TotalItems ,TaxPercentage  
+ ,TotalTaxAmount,TotalAmountAfterTax,CreditDays,IsRecieved,IsNetTransaction,  
+  IsImportTransaction,FreeVoucher,CardNo,PaymentType,CashRecieved,CashBalance,Posted  
+)        
+                 
+values   
+(  
+ @IdProject,@Iduser,@SheetNo,@BookNo,@VoucherNo,@TerminalNo,@BiltyNo,@SampleNo,@VDate,@DueDate,@AccountNo,@TransactionAccountNo,  
+ @EmpCode,@DeliveryEmployeeAccountNo,@VDiscription,@OutWardGatePassNo,@CustomerBalance,  
+ @BillAmount,@TotalDiscount,@FlatDiscount,@BillAmountAfterDiscount,@ExtraDiscount,@TotalFreight,@TotalAmount,@VAT,@VATTotalAmount,@TotalItems,    
+ @TaxPercentage,@TotalTaxAmount,@TotalAmountAfterTax,@CreditDays,@IsRecieved,@IsNetTransaction  
+ ,@IsImportTransaction,@FreeVoucher,@CardNo,@PaymentType,@CashRecieved,@CashBalance,@Posted  
+)                     
+end                    
+else                    
+begin                    
+insert into [Transactions].[SalesHead]                          
+(  
+  Project_Id,User_Id,SheetNo,BookNo,VoucherNo,TerminalNo,BiltyNo,SampleNo,VDate,DueDate,AccountNo,TransactionAccountNo,                   
+  EmpCode,DeliveryEmployeeAccountNo,VDiscription,OutwardgatepassNo,CustomerBalance  
+ ,BillAmount,TotalDiscount,FlatDiscount,BillAmountAfterDiscount,ExtraDiscount,TotalFreight,TotalAmount,VAT,VATTotalAmount,TotalItems ,TaxPercentage  
+ ,TotalTaxAmount,TotalAmountAfterTax,CreditDays,IsRecieved,IsNetTransaction,  
+  IsImportTransaction,FreeVoucher,CardNo,PaymentType,CashRecieved,CashBalance,Posted  
+)        
+                 
+values   
+(  
+ @IdProject,@Iduser,@SheetNo,@BookNo,@VoucherNo,@TerminalNo,@BiltyNo,@SampleNo,@VDate,@DueDate,@AccountNo,@TransactionAccountNo,  
+ @EmpCode,@DeliveryEmployeeAccountNo,@VDiscription,@OutWardGatePassNo,@CustomerBalance,  
+ @BillAmount,@TotalDiscount,@FlatDiscount,@BillAmountAfterDiscount,@ExtraDiscount,@TotalFreight,@TotalAmount,@VAT,@VATTotalAmount,@TotalItems,    
+ @TaxPercentage,@TotalTaxAmount,@TotalAmountAfterTax,@CreditDays,@IsRecieved,@IsNetTransaction  
+ ,@IsImportTransaction,@FreeVoucher,@CardNo,@PaymentType,@CashRecieved,@CashBalance,@Posted  
+)  
+end            
+            
+select scope_identity()      
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_GetAllDatedSales]      
+@IdProject bigint,      
+@BookNo bigint,      
+@DeliveryAccountNo varchar(50),             
+@StartDate datetime,      
+@EndDate datetime--,      
+--@IsNetTransaction bit       
+as      
+if @StartDate is null                     
+        Set @StartDate = '1800-01-01'                    
+                    
+    if @EndDate is null                     
+        Set @EndDate = GetDate() + 365                    
+                    
+                    
+                    
+    Set @StartDate = DATEADD(D, 0, DATEDIFF(D, 0, @StartDate))                    
+                    
+    Set @EndDate = DateAdd(day, 1, @EndDate)          
+if(@DeliveryAccountNo = '')      
+begin      
+select Voucher_Id,VoucherNo,VDate,TotalAmount from [Transactions].[SalesHead] H      
+where  IsNull(H.IsDeleted,0) = 0 and H.Project_Id = @IdProject and      
+H.BookNo = @BookNo and H.VDate between @StartDate and @EndDate --and IsNetTransaction = @IsNetTransaction      
+end          
+else      
+begin      
+select Voucher_Id,VoucherNo,VDate,TotalAmount from [Transactions].[SalesHead] H      
+where  IsNull(H.IsDeleted,0) = 0 and H.Project_Id = @IdProject and      
+H.BookNo = @BookNo and H.VDate between @StartDate and @EndDate --and IsNetTransaction = @IsNetTransaction      
+and H.DeliveryEmployeeAccountNo = @DeliveryAccountNo      
+end 
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_GetSalesTransactions]            
+@IdVoucher bigint,    
+@IdProject bigint,     
+@BookNo bigint--,             
+--@IsNetTransaction bit            
+as            
+Select H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,            
+I.ItemName,I.PackingSize          
+from [Transactions].[SalesHead] H            
+Inner Join [Transactions].[SalesDetail] D ON H.Voucher_Id = D.Voucher_Id            
+Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id                
+Where H.Voucher_Id = @IdVoucher and H.Project_Id = @IdProject    
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo  
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+ALTER Procedure [Transactions].[Proc_GetSalesTransactionsByNumber]                  
+@InvoiceNo bigint,          
+@IdProject bigint,           
+@BookNo bigint--,  
+--@IsNetTransaction bit          
+as                  
+Select H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,                  
+I.ItemName,I.PackingSize                
+from [Transactions].[SalesHead] H                  
+Inner Join [Transactions].[SalesDetail] D ON H.Voucher_Id = D.Voucher_Id                  
+Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id                      
+Where H.VoucherNo = @InvoiceNo and H.Project_Id = @IdProject          
+and H.BookNo = @BookNo --and IsNetTransaction =  @IsNetTransaction
+
+Go  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_GetSalesSubTransactions]        
+@IdVoucher bigint,         
+@IdProject bigint,        
+@BookNo bigint--,      
+--@IsNetTransaction bit            
+as            
+Select A.AccountNo,A.AccountName,T.TransactionDetail_Id,T.Narration,T.Debit,T.Credit,T.TrackNumber,T.Created_DateTime            
+from [Transactions].[TransactionsDetails] T Inner Join [Transactions].[SalesHead] H        
+on T.Voucher_Id = H.Voucher_Id         
+left Join [Setup].[Accounts] A on T.AccountNo = A.AccountNo            
+--left Join [Setup].[Persons] P on P.AccountNo = H.AccountNo            
+Where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.Voucher_Id = @IdVoucher      
+--and P.Project_Id = @IdProject     
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo       
+and T.VType = 'S' and T.Project_Id = @IdProject and T.BookNo = @BookNo      
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ALTER Procedure [Transactions].[Proc_GetMaxSalesReturnInvoiceNumber]                                  
+@IdProject bigint,        
+@BookNo bigint--,                      
+--@IsNetTransaction bit--,        
+--@SaleType int                                  
+as                                  
+declare @MaxNumber as bigint        
+if exists(select top 1 * from [Transactions].[SalesReturnHead] where Project_Id = @IdProject and BookNo = @BookNo)  --and IsNetTransaction = @IsNetTransaction                 
+                     
+begin                                  
+select @MaxNumber =  isnull(max(VoucherNo),0) from [Transactions].[SalesReturnHead] where Project_Id = @IdProject-- and IsNetTransaction = @IsNetTransaction       
+       and BookNo = @BookNo        
+set @MaxNumber = @MaxNumber + 1                                  
+select @MaxNumber as MaxVoucherNumber                                  
+end                                  
+else                                  
+begin                                  
+set @MaxNumber = 1                                  
+select @MaxNumber as MaxVoucherNumber                                  
+end    
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_CreateSalesReturnHead]                  
+@IdVoucher bigint,                    
+@IdProject bigint,                   
+@IdUser bigint = null,                
+@SheetNo varchar(50),                
+@BookNo bigint,                 
+@InvoiceNo bigint,                
+@TerminalNo int,                
+@BiltyNo varchar(50),                                  
+@VDate datetime,      
+@AccountNo varchar(50),                  
+@TransactionAccountNo varchar(50),        
+@EmpCode varchar(50),            
+@DeliveryEmployeeAccountNo varchar(50),                
+@VDiscription varchar(max),                
+@InwardGatePassNo varchar(50),                          
+@OutWardGatePassNo varchar(50),                    
+@BillAmount decimal(18,2),                
+@TotalFreight decimal(18,2),                
+@TotalAmount decimal(18,2),                
+@VAT decimal(18,2),                
+@VATTotalAmount decimal(18,2),       
+@TotalItems decimal(18,2) = null,      
+@TaxPercentage decimal(18,2) = null,      
+@TotalTaxAmount decimal(18,2) = null,      
+@TotalAmountAfterTax decimal(18,2) = null,                
+@IsNetTransaction bit,                
+@IsImportTransaction bit,                
+@IdStockAdjustmentType int,                   
+@Posted bit = null                  
+as                        
+declare @VoucherNo as bigint           
+set @VoucherNo = 1                
+if exists(select top 1 * from [Transactions].[SalesReturnHead]  where BookNo = @BookNo and Project_Id = @IdProject) --and IsNetTransaction = @IsNetTransaction)                
+begin                
+select @VoucherNo =  max(VoucherNo) from [Transactions].[SalesReturnHead] where BookNo = @BookNo and Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction    set @VoucherNo = @VoucherNo + 1                                        
+insert into [Transactions].[SalesReturnHead]                      
+(Project_Id,User_Id,SheetNo,BookNo,VoucherNo,InvoiceNo,TerminalNo,BiltyNo,VDate,AccountNo,TransactionAccountNo,                
+EmpCode,DeliveryEmployeeAccountNo,VDiscription,InwardGatePassNo,OutwardgatepassNo,BillAmount,TotalFreight,TotalAmount,VAT,VATTotalAmount,TotalItems,TaxPercentage,TotalTaxAmount,TotalAmountAfterTax,IsNetTransaction,IsImportTransaction,StockAdjustmentType_Id,Posted)                
+values (@IdProject,@Iduser,@SheetNo,@BookNo,@VoucherNo,@InvoiceNo,@TerminalNo,@BiltyNo,@VDate,@AccountNo,@TransactionAccountNo,@EmpCode,@DeliveryEmployeeAccountNo,@VDiscription,@InWardGatePassNo,@OutWardGatePassNo,    
+@BillAmount,@TotalFreight,@TotalAmount,@VAT,@VATTotalAmount,@TotalItems,@TaxPercentage,@TotalTaxAmount,@TotalAmountAfterTax,@IsNetTransaction,@IsImportTransaction,@IdStockAdjustmentType,@Posted)                 
+end                
+else                
+begin               
+insert into [Transactions].[SalesReturnHead]                      
+(Project_Id,User_Id,SheetNo,BookNo,VoucherNo,InvoiceNo,TerminalNo,BiltyNo,VDate,AccountNo,TransactionAccountNo,                
+EmpCode,DeliveryEmployeeAccountNo,VDiscription,InwardGatePassNo,OutwardgatepassNo,BillAmount,TotalFreight,TotalAmount,VAT,VATTotalAmount,TotalItems,TaxPercentage,TotalTaxAmount,TotalAmountAfterTax,IsNetTransaction,IsImportTransaction,StockAdjustmentType_Id,Posted)                
+values (@IdProject,@Iduser,@SheetNo,@BookNo,@VoucherNo,@InvoiceNo,@TerminalNo,@BiltyNo,@VDate,@AccountNo,@TransactionAccountNo,@EmpCode,@DeliveryEmployeeAccountNo,@VDiscription,@InWardGatePassNo,@OutWardGatePassNo,    
+@BillAmount,@TotalFreight,@TotalAmount,@VAT,@VATTotalAmount,@TotalItems,@TaxPercentage,@TotalTaxAmount,@TotalAmountAfterTax,@IsNetTransaction,@IsImportTransaction,@IdStockAdjustmentType,@Posted)                 
+end                
+            
+select @@Identity       
+      
+      
+ --select * from transactions.salesreturnhead   
+ Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_GetSalesReturnTransactions]              
+@IdVoucher bigint,      
+@IdProject bigint,       
+@BookNo bigint--,               
+--@IsNetTransaction bit = null              
+as              
+--if(@IsNetTransaction is null)  
+--begin  
+--Select H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,              
+--I.ItemName,I.PackingSize            
+--from [Transactions].[SalesReturnHead] H              
+--Inner Join [Transactions].[SalesReturnDetail] D ON H.Voucher_Id = D.Voucher_Id              
+--Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id                  
+--Where H.Voucher_Id = @IdVoucher and H.Project_Id = @IdProject      
+--and H.BookNo = @BookNo   
+--end  
+--else  
+begin  
+Select H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,              
+I.ItemName,I.PackingSize            
+from [Transactions].[SalesReturnHead] H              
+Inner Join [Transactions].[SalesReturnDetail] D ON H.Voucher_Id = D.Voucher_Id              
+Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id                  
+Where H.Voucher_Id = @IdVoucher and H.Project_Id = @IdProject      
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo    
+end
+
+ Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_GetSalesReturnTransactionsByNumber]                
+@VoucherNo bigint,        
+@IdProject bigint,         
+@BookNo bigint--,                 
+--@IsNetTransaction bit = null                
+as                
+--if(@IsNetTransaction is null)    
+--begin    
+--Select H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,                
+--I.ItemName,I.PackingSize              
+--from [Transactions].[SalesReturnHead] H                
+--Inner Join [Transactions].[SalesReturnDetail] D ON H.Voucher_Id = D.Voucher_Id                
+--Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id                    
+--Where H.VoucherNo = @VoucherNo and H.Project_Id = @IdProject        
+--and H.BookNo = @BookNo     
+--end    
+--else    
+begin    
+Select H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,                
+I.ItemName,I.PackingSize              
+from [Transactions].[SalesReturnHead] H                
+Inner Join [Transactions].[SalesReturnDetail] D ON H.Voucher_Id = D.Voucher_Id                
+Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id                    
+Where H.VoucherNo = @VoucherNo and H.Project_Id = @IdProject        
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo      
+end  
+  
+ Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_GetSalesReturnSubTransactions]          
+@IdVoucher bigint,           
+@IdProject bigint,          
+@BookNo bigint--,        
+--@IsNetTransaction bit = null              
+as              
+--if(@isNetTransaction is null)  
+--begin  
+--Select A.AccountNo,A.AccountName,T.TransactionDetail_Id,T.Narration,T.Debit,T.Credit,T.TrackNumber,T.Created_DateTime              
+--from [Transactions].[TransactionsDetails] T Inner Join [Transactions].[SalesReturnHead] H          
+--on T.Voucher_Id = H.Voucher_Id           
+--left Join [Setup].[Accounts] A on T.AccountNo = A.AccountNo              
+----left Join [Setup].[Persons] P on P.AccountNo = H.AccountNo              
+--Where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.Voucher_Id = @IdVoucher        
+----and P.Project_Id = @IdProject       
+----and H.IsNetTransaction = @IsNetTransaction  
+--and H.BookNo = @BookNo         
+--and T.VType = 'SR' and T.Project_Id = @IdProject and T.BookNo = @BookNo  
+--end  
+--else  
+begin  
+Select A.AccountNo,A.AccountName,T.TransactionDetail_Id,T.Narration,T.Debit,T.Credit,T.TrackNumber,T.Created_DateTime              
+from [Transactions].[TransactionsDetails] T Inner Join [Transactions].[SalesReturnHead] H          
+on T.Voucher_Id = H.Voucher_Id           
+left Join [Setup].[Accounts] A on T.AccountNo = A.AccountNo              
+--left Join [Setup].[Persons] P on P.AccountNo = H.AccountNo              
+Where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.Voucher_Id = @IdVoucher        
+--and P.Project_Id = @IdProject       
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo         
+and T.VType = 'SR' and T.Project_Id = @IdProject and T.BookNo = @BookNo        
+end
+
+ Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_GetSalesReturnTransactionsOnInvoiceBasis]                
+@IdVoucher bigint,        
+@IdProject bigint,         
+@BookNo bigint--,                 
+--@IsNetTransaction bit = null                
+as                
+--if(@IsNetTransaction is null)    
+--begin    
+--Select H.*           
+--from [Transactions].[SalesReturnHead] H                
+--Where H.InvoiceNo = @IdVoucher and H.Project_Id = @IdProject        
+--and H.BookNo = @BookNo     
+--end    
+--else    
+begin    
+Select H.*,D.*,--D.VoucherDetail_Id,D.Item_Id,D.SeqNo,D.Discription,D.TotalCartons,D.Units,D.RemainingUnits,D.UnitPrice,D.Disc,D.Amount,                
+I.ItemName,I.PackingSize              
+from [Transactions].[SalesReturnHead] H                
+Inner Join [Transactions].[SalesReturnDetail] D ON H.Voucher_Id = D.Voucher_Id                
+Inner Join [Setup].[Items] I On D.Item_Id = I.Item_Id                    
+Where  H.InvoiceNo = @IdVoucher and H.Project_Id = @IdProject        
+--and H.IsNetTransaction = @IsNetTransaction 
+and H.BookNo = @BookNo      
+end
+
+ Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_GetAllStockTransactionalVouchersByTypeAndDate]                           
+@IdProject bigint,                                      
+@BookNo bigint,                          
+@VoucherType varchar(50),                                                
+@VDate datetime,                      
+@IsNetTransaction bit = null                                                                
+as                                                                  
+if(@VoucherType = 'StockReceiptVoucher')                                                                  
+begin        
+--if(@IsNetTransaction is null)            
+--begin        
+--select V.*,U.UserName,P.Project_Name,A.AccountName,isnull(P1.[Address],'') [Address] from [Transactions].[Purchasehead] V Inner Join [Users].[Users] U                          
+--on V.[User_Id] = U.[User_Id] Inner Join [Setup].[Projects] P                           
+--on P.Project_Id = V.Project_Id                                               
+--left join [Setup].[Persons] P1 on P1.AccountNo = V.AccountNo          
+--inner join [Setup].[Accounts] A on A.AccountNo = V.AccountNo                                             
+--where Convert(datetime,convert(varchar,V.[Vdate],101)) = @VDate and V.Project_Id = @IdProject                           
+--and V.BookNo = @BookNo and A.Project_Id = @IdProject         
+--order by V.VoucherNo        
+--END        
+--ELSE        
+BEGIN                                                                  
+select V.*,U.UserName,P.Project_Name,A.AccountName,isnull(P1.[Address],'') [Address] from [Transactions].[Purchasehead] V Inner Join [Users].[Users] U                          
+on V.[User_Id] = U.[User_Id] Inner Join [Setup].[Projects] P                           
+on P.Project_Id = V.Project_Id                                               
+left join [Setup].[Persons] P1 on P1.AccountNo = V.AccountNo          
+inner join [Setup].[Accounts] A on A.AccountNo = V.AccountNo                                                 
+where Convert(datetime,convert(varchar,V.[Vdate],101)) = @VDate and V.Project_Id = @IdProject                           
+and V.BookNo = @BookNo-- and IsNetTransaction = @IsNetTransaction 
+and A.Project_Id = @IdProject                       
+order by V.VoucherNo             
+END                                                          
+end                        
+else if(@VoucherType = 'StockReturnVoucher')                                                                  
+begin                                                                  
+select V.*,U.UserName,P.Project_Name,A.AccountName,isnull(P1.[Address],'') [Address] from [Transactions].[PurchaseReturnhead] V Inner Join [Users].[Users] U                          
+on V.[User_Id] = U.[User_Id] Inner Join [Setup].[Projects] P                           
+on P.Project_Id = V.Project_Id                  
+left join [Setup].[Persons] P1 on P1.AccountNo = V.AccountNo          
+inner join [Setup].[Accounts] A on A.AccountNo = V.AccountNo                                                 
+where Convert(datetime,convert(varchar,V.[Vdate],101)) = @VDate and V.Project_Id = @IdProject                           
+and V.BookNo = @BookNo --and IsNetTransaction = @IsNetTransaction 
+and A.Project_Id = @IdProject                        
+order by V.VoucherNo                                                               
+end                        
+else if(@VoucherType = 'SaleInvoiceVoucher')                                                                                                                        
+--if(@IsNetTransaction is null)            
+--begin            
+--select distinct V.*,U.UserName,P.Project_Name,A.AccountName,isnull(P1.[Address],'') [Address] from [Transactions].[SalesHead] V Inner Join [Users].[Users] U                          
+--on V.[User_Id] = U.[User_Id] Inner Join [Setup].[Projects] P                           
+--on P.Project_Id = V.Project_Id          
+--left join [Setup].[Persons] P1 on P1.AccountNo = V.AccountNo          
+--inner join [Setup].[Accounts] A on A.AccountNo = V.AccountNo                                                 
+--where Convert(datetime,convert(varchar,V.[Vdate],101)) = @VDate and V.Project_Id = @IdProject and A.Project_Id = @IdProject                          
+--and V.BookNo = @BookNo                  
+--order by V.VoucherNo            
+--end            
+--else            
+begin            
+select distinct V.*,U.UserName,P.Project_Name,A.AccountName,isnull(P1.[Address],'') [Address] from [Transactions].[SalesHead] V Inner Join [Users].[Users] U                          
+on V.[User_Id] = U.[User_Id] Inner Join [Setup].[Projects] P                           
+on P.Project_Id = V.Project_Id                                               
+left join [Setup].[Persons] P1 on P1.AccountNo = V.AccountNo          
+inner join [Setup].[Accounts] A on A.AccountNo = V.AccountNo                                                 
+where Convert(datetime,convert(varchar,V.[Vdate],101)) = @VDate and V.Project_Id = @IdProject                           
+and V.BookNo = @BookNo --and IsNetTransaction = @IsNetTransaction 
+and A.Project_Id = @IdProject                       
+order by V.VoucherNo                                                              
+end                        
+else if(@VoucherType = 'SalesReturnVoucher')                                                                  
+--if(@IsNetTransaction is null)            
+--begin                            
+--select V.*,U.UserName,P.Project_Name,A.AccountName,isnull(P1.[Address],'') [Address] from [Transactions].[SalesReturnHead] V Inner Join [Users].[Users] U                          
+--on V.[User_Id] = U.[User_Id] Inner Join [Setup].[Projects] P                           
+--on P.Project_Id = V.Project_Id                                               
+--left join [Setup].[Persons] P1 on P1.AccountNo = V.AccountNo          
+--inner join [Setup].[Accounts] A on A.AccountNo = V.AccountNo                                                 
+--where Convert(datetime,convert(varchar,V.[Vdate],101)) = @VDate and V.Project_Id = @IdProject and A.Project_Id = @IdProject                          
+--and V.BookNo = @BookNo                    
+--order by V.VoucherNo                                                              
+--end            
+--else            
+begin            
+select V.*,U.UserName,P.Project_Name,A.AccountName,isnull(P1.[Address],'') [Address] from [Transactions].[SalesReturnHead] V Inner Join [Users].[Users] U                          
+on V.[User_Id] = U.[User_Id] Inner Join [Setup].[Projects] P                           
+on P.Project_Id = V.Project_Id                                               
+left join [Setup].[Persons] P1 on P1.AccountNo = V.AccountNo          
+inner join [Setup].[Accounts] A on A.AccountNo = V.AccountNo                                                 
+where Convert(datetime,convert(varchar,V.[Vdate],101)) = @VDate and V.Project_Id = @IdProject                           
+and V.BookNo = @BookNo --and IsNetTransaction = @IsNetTransaction 
+and A.Project_Id = @IdProject                       
+order by V.VoucherNo              
+end   
+else if(@VoucherType = 'GeneralMaterialStoreIssuance')                                                                  
+begin     
+declare @StoreType as int  
+if(@IsNetTransaction = 0)  
+set @StoreType = 1  
+else  
+set @StoreType = 2                                                               
+select V.*,U.UserName,P.Project_Name,A.AccountName,isnull(P1.[Address],'') [Address] from [Transactions].[GeneralInventoryIssuanceHead] V Inner Join [Users].[Users] U                          
+on V.[User_Id] = U.[User_Id] Inner Join [Setup].[Projects] P                           
+on P.Project_Id = V.Project_Id                  
+left join [Setup].[Persons] P1 on P1.AccountNo = V.AccountNo          
+inner join [Setup].[Accounts] A on A.AccountNo = V.AccountNo                                                 
+where Convert(datetime,convert(varchar,V.[Vdate],101)) = @VDate and V.Project_Id = @IdProject                           
+and V.BookNo = @BookNo and StoreType = @StoreType and A.Project_Id = @IdProject                        
+order by V.VoucherNo         
+end    
+  
+Go  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_GetAllStockTransactionalVoucherByTypeAndAccountNo]                     
+@IdProject bigint,                                
+@BookNo bigint,                    
+@AccountNo varchar(50),                    
+@VoucherType varchar(50),                
+@IsNetTransaction bit = null                                         
+as                                                            
+if(@VoucherType = 'StockReceiptVoucher')                                                            
+begin                                                            
+select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') CustomerAddress from [Transactions].[PurchaseHead] H                  
+Inner Join Setup.Accounts A     on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U    on H.[User_Id] = U.[User_Id]       
+Inner Join [Setup].[Projects] P on P.Project_Id = H.Project_Id         
+left join [Setup].[Persons] P1 on P1.AccountNo = H.AccountNo                                                 
+where H.AccountNo = @AccountNo and H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo
+-- and IsNetTransaction = @IsNetTransaction                      
+order by H.Voucher_Id                                                          
+end                  
+else if(@VoucherType = 'StockReturnVoucher')                                                            
+begin                                                            
+select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') CustomerAddress from [Transactions].[PurchaseReturnHead] H                  
+Inner Join Setup.Accounts A      on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U     on H.[User_Id] = U.[User_Id]       
+Inner Join [Setup].[Projects] P  on P.Project_Id = H.Project_Id       
+left join [Setup].[Persons] P1   on P1.AccountNo = H.AccountNo                                                       
+where H.AccountNo = @AccountNo and H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo 
+--and IsNetTransaction = @IsNetTransaction                      
+order by H.Voucher_Id                                                                                                     
+end                  
+else if(@VoucherType = 'SaleInvoiceVoucher')                                                                     
+--if(@IsNetTransaction is null)        
+--begin        
+--select distinct *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') CustomerAddress from [Transactions].[SalesHead] H                  
+--Inner Join Setup.Accounts A       on H.AccountNo = A.AccountNo       
+--Inner Join [Users].[Users] U      on H.[User_Id] = U.[User_Id]       
+--Inner Join [Setup].[Projects] P   on P.Project_Id = H.Project_Id              
+--left join [Setup].[Persons] P1    on P1.AccountNo = H.AccountNo                                              
+--where H.AccountNo = @AccountNo and H.Project_Id = @IdProject and H.BookNo = @BookNo and A.Project_Id = @IdProject             
+--order by H.Voucher_Id         
+--end        
+--else        
+begin                                                 
+select distinct *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') CustomerAddress from [Transactions].[SalesHead] H                  
+Inner Join Setup.Accounts A       on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U      on H.[User_Id] = U.[User_Id]      
+ Inner Join [Setup].[Projects] P  on P.Project_Id = H.Project_Id                                                   
+left join [Setup].[Persons] P1    on P1.AccountNo = H.AccountNo      
+where H.AccountNo = @AccountNo and H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo
+--and IsNetTransaction = @IsNetTransaction                      
+order by H.Voucher_Id                                                     
+end                  
+else if(@VoucherType = 'SalesReturnVoucher')                                                            
+--if(@IsNetTransaction is null)        
+--begin                                                            
+--select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') CustomerAddress from [Transactions].[SalesReturnHead] H                  
+--Inner Join Setup.Accounts A      on H.AccountNo = A.AccountNo       
+--Inner Join [Users].[Users] U     on H.[User_Id] = U.[User_Id]       
+--Inner Join [Setup].[Projects] P  on P.Project_Id = H.Project_Id                                                   
+--left join [Setup].[Persons] P1   on P1.AccountNo = H.AccountNo      
+--where H.AccountNo = @AccountNo and H.Project_Id = @IdProject and H.BookNo = @BookNo  and A.Project_Id = @IdProject                    
+--order by H.Voucher_Id                                                        
+--end        
+--else        
+begin        
+select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') CustomerAddress from [Transactions].[SalesReturnHead] H                  
+Inner Join Setup.Accounts A      on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U     on H.[User_Id] = U.[User_Id]       
+Inner Join [Setup].[Projects] P  on P.Project_Id = H.Project_Id                                                   
+left join [Setup].[Persons] P1   on P1.AccountNo = H.AccountNo      
+where H.AccountNo = @AccountNo and H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo 
+--and IsNetTransaction = @IsNetTransaction                      
+order by H.Voucher_Id          
+end        
+else if(@VoucherType = 'GeneralMaterialStoreIssuance')                                                            
+begin     
+declare @StoreType as int  
+if(@IsNetTransaction = 0)  
+set @StoreType = 1  
+else  
+set @StoreType = 2                                                          
+select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') CustomerAddress from [Transactions].[GeneralInventoryIssuanceHead] H                  
+Inner Join Setup.Accounts A      on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U     on H.[User_Id] = U.[User_Id]       
+Inner Join [Setup].[Projects] P  on P.Project_Id = H.Project_Id       
+left join [Setup].[Persons] P1   on P1.AccountNo = H.AccountNo                                                       
+where H.AccountNo = @AccountNo and H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo   
+and StoreType = @StoreType  
+order by H.Voucher_Id  
+end    
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_GetAllStockTransactionalVoucherByType]                       
+@IdProject bigint,                                  
+@BookNo bigint,                      
+@VoucherType varchar(50),                  
+@IsNetTransaction bit = null                                            
+as                                                              
+if(@VoucherType = 'StockReceiptVoucher')                                                              
+begin                                                              
+select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') [CustomerAddress] from [Transactions].[PurchaseHead] H                    
+Inner Join Setup.Accounts A   on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U        on H.[User_Id] = U.[User_Id]      
+Inner Join [Setup].[Projects] P     on P.Project_Id = H.Project_Id        
+left join [Setup].[Persons] P1  on P1.AccountNo = H.AccountNo                                                    
+where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo 
+--and IsNetTransaction = @IsNetTransaction                      
+order by H.Voucher_Id                                                            
+end                    
+else if(@VoucherType = 'StockReturnVoucher')                                                              
+begin                                                              
+select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') [CustomerAddress] from [Transactions].[PurchaseReturnHead] H                    
+Inner Join Setup.Accounts A   on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U        on H.[User_Id] = U.[User_Id]       
+Inner Join [Setup].[Projects] P     on P.Project_Id = H.Project_Id                                       
+left join [Setup].[Persons] P1  on P1.AccountNo = H.AccountNo                      
+where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo 
+--and IsNetTransaction = @IsNetTransaction                      
+order by H.Voucher_Id                                                            
+end                    
+else if(@VoucherType = 'SaleInvoiceVoucher')                                                              
+begin           
+--if(@IsNetTransaction is null)          
+--begin          
+--select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') [CustomerAddress] from [Transactions].[SalesHead] H                    
+--Inner Join Setup.Accounts A    on H.AccountNo = A.AccountNo       
+--Inner Join [Users].[Users] U      on H.[User_Id] = U.[User_Id]       
+--Inner Join [Setup].[Projects] P   on P.Project_Id = H.Project_Id                                         
+--left join [Setup].[Persons] P1   on P1.AccountNo = H.AccountNo                    
+--where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo                    
+--order by H.Voucher_Id          
+--end                                                             
+select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') [CustomerAddress] from [Transactions].[SalesHead] H                    
+Inner Join Setup.Accounts A   on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U     on H.[User_Id] = U.[User_Id]       
+Inner Join [Setup].[Projects] P  on P.Project_Id = H.Project_Id                                                     
+left join [Setup].[Persons] P1   on P1.AccountNo = H.AccountNo        
+where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo 
+--and IsNetTransaction = @IsNetTransaction                      
+order by H.Voucher_Id                                                           
+end                    
+else if(@VoucherType = 'SalesReturnVoucher')                                                              
+begin                  
+--if(@IsNetTransaction is null)          
+--begin          
+--select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') [CustomerAddress] from [Transactions].[SalesReturnHead] H                    
+--Inner Join Setup.Accounts A   on H.AccountNo = A.AccountNo       
+--Inner Join [Users].[Users] U     on H.[User_Id] = U.[User_Id]       
+--Inner Join [Setup].[Projects] P  on P.Project_Id = H.Project_Id                                                     
+--left join [Setup].[Persons] P1   on P1.AccountNo = H.AccountNo        
+--where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo                  
+--order by H.Voucher_Id           
+--end          
+--else          
+begin                                                      
+select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') [CustomerAddress] from [Transactions].[SalesReturnHead] H                    
+Inner Join Setup.Accounts A      on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U     on H.[User_Id] = U.[User_Id]       
+Inner Join [Setup].[Projects] P  on P.Project_Id = H.Project_Id                                                     
+left join [Setup].[Persons] P1   on P1.AccountNo = H.AccountNo        
+where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo 
+--and IsNetTransaction = @IsNetTransaction                      
+order by H.Voucher_Id           
+end  
+end                                                                  
+else if(@VoucherType = 'GeneralMaterialStoreIssuance')                                                            
+begin     
+declare @StoreType as int  
+if(@IsNetTransaction = 0)  
+set @StoreType = 1  
+else  
+set @StoreType = 2                                                             
+select *,A.AccountName,U.UserName,P.Project_Name,isnull(P1.[Address],'') [CustomerAddress] from [Transactions].[GeneralInventoryIssuanceHead] H                    
+Inner Join Setup.Accounts A   on H.AccountNo = A.AccountNo       
+Inner Join [Users].[Users] U        on H.[User_Id] = U.[User_Id]       
+Inner Join [Setup].[Projects] P     on P.Project_Id = H.Project_Id                                       
+left join [Setup].[Persons] P1  on P1.AccountNo = H.AccountNo                      
+where H.Project_Id = @IdProject and A.Project_Id = @IdProject and H.BookNo = @BookNo and StoreType = @StoreType                      
+order by H.Voucher_Id                                                            
+end            
+
+Go
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_GetAllStockTotalTransactionalVouchersByType]            
+@IdProject bigint,            
+@BookNo bigint,            
+@VoucherType varchar(50)--,          
+--@IsNetTransaction bit            
+as            
+if(@VoucherType = 'StockReceiptVoucher')                                                      
+begin                                                      
+select count(*) from [Transactions].[PurchaseHead] where BookNo = @BookNo          
+and Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction                                                     
+end            
+else if(@VoucherType = 'StockReturnVoucher')                                                      
+begin                                                      
+select count(*) from [Transactions].[PurchaseReturnHead] where BookNo = @BookNo          
+and Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction                                                     
+end            
+else if(@VoucherType = 'SaleInvoiceVoucher')                                                      
+begin                                                      
+select count(*) from [Transactions].[SalesHead] where BookNo = @BookNo          
+and Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction                                                     
+end            
+else if(@VoucherType = 'SalesReturnVoucher')                                                      
+begin                                                      
+select count(*) from [Transactions].[SalesReturnHead] where BookNo = @BookNo          
+and Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction                                                     
+end   
+else if(@VoucherType = 'GeneralMaterialStoreIssuance')                                                      
+begin                                                      
+select count(*) from [Transactions].[GeneralInventoryIssuancehead] where BookNo = @BookNo          
+and Project_Id = @IdProject and isnull(isdeleted,0) = 0 and StoreType = 1  
+end   
+else if(@VoucherType = 'GeneralMaterialStoreReceiving')                                                      
+begin                                                      
+select count(*) from [Transactions].[GeneralInventoryIssuancehead] where BookNo = @BookNo          
+and Project_Id = @IdProject and isnull(isdeleted,0) = 0 and StoreType = 2                                                 
+end 
+
+Go
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+ALTER Procedure [Transactions].[Proc_GetStockLastVoucherTransactionByType]          
+@IdProject bigint,          
+@BookNo bigint,          
+@VoucherType varchar(50)--,        
+--@IsNetTransaction bit          
+as          
+if(@VoucherType = 'StockReceiptVoucher')                                                    
+begin                                                    
+select TOP 1 * from [Transactions].[PurchaseHead] where BookNo = @BookNo        
+and Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction           
+ORDER BY voucher_Id DESC                                                  
+end          
+else if(@VoucherType = 'StockReturnVoucher')                                                    
+begin                                                    
+select TOP 1 * from [Transactions].[PurchaseReturnHead] where BookNo = @BookNo        
+and Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction          
+ORDER BY voucher_Id DESC                                                   
+end          
+else if(@VoucherType = 'SaleInvoiceVoucher')                                                    
+begin                                                    
+select TOP 1 * from [Transactions].[SalesHead] where BookNo = @BookNo        
+and Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction        
+ORDER BY voucher_Id DESC                                                     
+end          
+else if(@VoucherType = 'SalesReturnVoucher')                                                    
+begin                                                    
+select TOP 1 * from [Transactions].[SalesReturnHead] where BookNo = @BookNo        
+and Project_Id = @IdProject --and IsNetTransaction = @IsNetTransaction        
+ORDER BY voucher_Id DESC                                                     
+end   
+else if(@VoucherType = 'GeneralMaterialStoreIssuance')                                                      
+begin                                                      
+select Top 1 * from [Transactions].[GeneralInventoryIssuancehead] where BookNo = 1          
+and Project_Id = 1 and isnull(isdeleted,0) = 0 and StoreType = 1  
+ORDER BY voucher_Id DESC   
+end   
+else if(@VoucherType = 'GeneralMaterialStoreReceiving')                                                      
+begin                                                      
+select Top 1 * from [Transactions].[GeneralInventoryIssuancehead] where BookNo = @BookNo          
+and Project_Id = @IdProject and isnull(isdeleted,0) = 0 and StoreType = 2         
+ORDER BY voucher_Id DESC                                           
+end   
+
+Go
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------    

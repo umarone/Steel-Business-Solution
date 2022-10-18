@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3425D76A-6AED-4104-84DF-FB9884487CBC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Accounts.DAL</RootNamespace>
+    <AssemblyName>Accounts.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accounts.Common">
+      <HintPath>..\Accounts.Common\bin\Debug\Accounts.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Accounts.EL">
+      <HintPath>..\Accounts.EL\bin\Debug\Accounts.EL.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OutSource Work\OutSourceWorkTypeDAL.cs" />
+    <Compile Include="OutSource Work\OutSourceWorkDetailDAL.cs" />
+    <Compile Include="Setup\CategoryDAL.cs" />
+    <Compile Include="Setup\ProjectDAL.cs" />
+    <Compile Include="Setup\SoftwareChecksDAL.cs" />
+    <Compile Include="Setup\SoftwareTabsDAL.cs" />
+    <Compile Include="Setup\SoftwareTypesDAL.cs" />
+    <Compile Include="Setup\StockAdjustmentsDAL.cs" />
+    <Compile Include="Setup\TradingDAL.cs" />
+    <Compile Include="DBOperations\BackupDAL.cs" />
+    <Compile Include="OldMisc\BankPaymentVoucherDAL.cs" />
+    <Compile Include="OldMisc\BankReceiptVoucherDAL.cs" />
+    <Compile Include="Setup\UOMDAL.cs" />
+    <Compile Include="Stock\GeneralStockIssuanceDetailDAL.cs" />
+    <Compile Include="Stock\GeneralStockIssuanceHeadDAL.cs" />
+    <Compile Include="Transactions\ChequesDAL.cs" />
+    <Compile Include="Transactions\CompanyProfileDAL.cs" />
+    <Compile Include="Transactions\IncomeDAL.cs" />
+    <Compile Include="Setup\ItemsDAL.cs" />
+    <Compile Include="OldMisc\JournalVoucherDetailDAL.cs" />
+    <Compile Include="OldMisc\JournalVoucherMasterDAL.cs" />
+    <Compile Include="Transactions\OpeningBalanceDAL.cs" />
+    <Compile Include="OldMisc\PaymentDetailDAL.cs" />
+    <Compile Include="OldMisc\PaymentMasterDAL.cs" />
+    <Compile Include="Setup\PersonsDAL.cs" />
+    <Compile Include="OldMisc\PrescriberSampleDAL.cs" />
+    <Compile Include="OldMisc\PrescriberSampleDetailDAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="OutSource Work\OutSourceWorkHeadDAL.cs" />
+    <Compile Include="Transactions\PurchaseDetailDAL.cs" />
+    <Compile Include="Transactions\PurchaseHeadDAL.cs" />
+    <Compile Include="OldMisc\RecievedDetailDAL.cs" />
+    <Compile Include="OldMisc\RecievedMasterDAL.cs" />
+    <Compile Include="Transactions\SaleDetailDAL.cs" />
+    <Compile Include="Transactions\SalesHeadDAL.cs" />
+    <Compile Include="Setup\AccountsDAL.cs" />
+    <Compile Include="Setup\CompanyDAL.cs" />
+    <Compile Include="Transactions\StockDAL.cs" />
+    <Compile Include="Transactions\SamplesDetailDAL.cs" />
+    <Compile Include="Transactions\SamplesHeadDAL.cs" />
+    <Compile Include="Transactions\TradingCoDAL.cs" />
+    <Compile Include="Transactions\TransactionsDAL.cs" />
+    <Compile Include="Transactions\BankDAL.cs" />
+    <Compile Include="Transactions\CashDetailDAL.cs" />
+    <Compile Include="Transactions\CashDAL.cs" />
+    <Compile Include="Setup\ModulesDAL.cs" />
+    <Compile Include="Transactions\VouchersDetailDAL.cs" />
+    <Compile Include="Users\RoleDAL.cs" />
+    <Compile Include="Users\UserModulesDAL.cs" />
+    <Compile Include="Users\UserRolesDAL.cs" />
+    <Compile Include="Users\UsersDAL.cs" />
+    <Compile Include="Transactions\VoucherDAL.cs" />
+    <Compile Include="Users\UserModulesPermissionsDAL.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

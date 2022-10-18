@@ -1,0 +1,1166 @@
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankPaymentVoucher.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChartOfAccounts.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPaymentVoucher.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.UCPersons.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPrescriberSample.resources
+D:\CombineAssociatesPrescriber\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankPaymentVoucher.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChartOfAccounts.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPaymentVoucher.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPrescriberSample.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.UCPersons.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\MehboobTrading\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\MehboobTrading\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.dll
+D:\GojraAccount\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankVocher.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\GojraAccount\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.dll
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankVocher.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\Yousaf Traders\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.dll
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\J&J Pharma\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankVocher.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProducts.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\J&J Pharma\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.dll
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\Bader Gojra\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankVocher.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProducts.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Bader Gojra\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalancesByType.resources
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.dll
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\Lahore\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankVocher.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmHeadsSetup.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalancesByType.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProducts.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamples.resources
+D:\Lahore\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamplesReturn.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.dll
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankVocher.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmHeadsSetup.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalancesByType.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProducts.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamples.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamplesReturn.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCategories.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindCategories.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPrintVouchers.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleReports.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmRecoveryReport.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMiniTrialBalance.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleSaleDays.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimReport.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlySalesReport.resources
+D:\GreenTechnologySolutions\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimedVouchers.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.dll
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\DeeJhons\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCategories.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankVocher.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindCategories.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindTradingCo.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmHeadsSetup.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMiniTrialBalance.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimedVouchers.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimReport.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlySalesReport.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalancesByType.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPrintVouchers.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProducts.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmRecoveryReport.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleReports.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamples.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleSaleDays.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamplesReturn.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReturn.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTradingCo.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\DeeJhons\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.dll
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCategories.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCurrentStock.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomerDiscount.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankVocher.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBankReceiptVoucher.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashReceiptVoucher.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindCategories.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindProductByBatchAndExpiry.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindTradingCo.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmHeadsSetup.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMiniTrialBalance.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimedVouchers.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimReport.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlySalesReport.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalancesByType.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPrintVouchers.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProducts.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmRecoveryReport.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleReports.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamples.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleSaleDays.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamplesReturn.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAccounts.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReturn.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTradingCo.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\PAKANDCORIAN\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.dll
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.dll
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSubHeadExpenses.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSubHeadExpensesDetail.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmClosingBalancesReports.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmtest1.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPurchases.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReturn.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCategories.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProjects.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReturnAdjustmentSetup.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCurrentStock.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAuthentication.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomerDiscount.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindCategories.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindProductByBatchAndExpiry.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindTradingCo.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmHeadsSetup.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMiniTrialBalance.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimedVouchers.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlySalesReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalancesByType.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPrintVouchers.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProducts.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmRecoveryReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleReports.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamples.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleSaleDays.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamplesReturn.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindProducts.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTradingCo.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBusinessVolume.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmLowStock.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProductLedger.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmUserActivityReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmGatePassReports.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmInventoryIssuance.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockRatesCalculation.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockIssuancePrintReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesMainSummaryWithReturn.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPurchasePrintReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAnalysisReports.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProjectWiseDatedSales.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDistributionSales.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDistributionSalesReturn.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDayBook.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmEmployeesMonthlyReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPartyWiseSaleSummary.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAgingReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDayBookDetail.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmBalanceSheet.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmInvoicesDateChange.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAvailableModules.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPreviews.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsOpeningBalanceByTypeAndHeads.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashBook.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersProfitAndLoss.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersProfitAndLossDetail.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyPurchasesReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlySalePurchaseDetailedReport.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmTopSellingAndReturningItems.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProductsChart.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmProductWiseProfitLoss.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDatedCashPaidExpense.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomerWiseProductsProfitAndLoss.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAllProductsWiseProfitLoss.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmAllProductsInOutWithAvg.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmGroupingStockAnalysisReports.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOutSourceWork.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindOutSourceWorkType.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmOutSourceWorkTypes.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPointOfSale.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\RdlCompile.cache
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\RdlCompile.compiled
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPOSInfoDialogue.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmDailyBusinessActivities.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\bin\Release\POSInvoices\SampleRDLCCheck.rdlc
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosReturn.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosPurchases.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosInvoice.resources
+D:\Final Accounts\Accounts.UI\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosPurchasesReturn.resources
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.UI.exe.config
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.exe
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.pdb
+D:\Crown Final Ledger\Accounts.UI\bin\Release\POSInvoices\SampleRDLCCheck.rdlc
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.UI.pdb
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\MetroFramework.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\Crown Final Ledger\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsOpeningBalanceByTypeAndHeads.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmAvailableModules.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPreviews.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmDatedCashPaidExpense.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSubHeadExpenses.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSubHeadExpensesDetail.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmAgingReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmBalanceSheet.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmBusinessVolume.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashBook.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmClosingBalancesReports.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmDailyBusinessActivities.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmDayBook.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmDayBookDetail.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmtest1.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersProfitAndLoss.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersProfitAndLossDetail.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomerWiseProductsProfitAndLoss.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyPurchasesReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlySalePurchaseDetailedReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmTopSellingAndReturningItems.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindOutSourceWorkType.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmOutSourceWorkTypes.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmOutSourceWork.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosPurchasesReturn.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosPurchases.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPurchases.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReturn.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmGroupingStockAnalysisReports.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPurchasePrintReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAnalysisReports.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockIssuancePrintReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmDistributionSales.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmDistributionSalesReturn.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmEmployeesMonthlyReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmInvoicesDateChange.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPartyWiseSaleSummary.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPointOfSale.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPOSInfoDialogue.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosReturn.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmProjectWiseDatedSales.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosInvoice.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesMainSummaryWithReturn.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmAllProductsInOutWithAvg.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmAllProductsWiseProfitLoss.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmProductWiseProfitLoss.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmProductsChart.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCategories.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmProjects.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReturnAdjustmentSetup.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCurrentStock.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmGatePassReports.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmInventoryIssuance.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmLowStock.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmProductLedger.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockRatesCalculation.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmUserActivityReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmAuthentication.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomerDiscount.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindCategories.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindProductByBatchAndExpiry.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindTradingCo.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmHeadsSetup.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmMiniTrialBalance.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimedVouchers.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlySalesReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalancesByType.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPrintVouchers.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmProducts.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmRecoveryReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleReports.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamples.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleSaleDays.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamplesReturn.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindProducts.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmTradingCo.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.Properties.Resources.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersWiseDetailedDiscountSummary.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersWiseDiscountSummary.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmUOM.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompanyProjectInfo.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPostDatedChequesDetail.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmPostedDatedCheques.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmFifoAgingReport.resources
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersSalesInvoices.resources
+D:\Crown Final Ledger\Accounts.UI\bin\Release\Accounts.UI.exe
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.Shared.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\DocumentFormat.OpenXml.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\AxShockwaveFlashObjects.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\ShockwaveFlashObjects.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\stdole.dll
+D:\Crown Final Ledger\Accounts.UI\bin\Release\DocumentFormat.OpenXml.xml
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.csproj.AssemblyReference.cache
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.csproj.GenerateResource.cache
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.csproj.CoreCompileInputs.cache
+D:\Crown Final Ledger\Accounts.UI\obj\x86\Release\Accounts.UI.csproj.CopyComplete
+D:\Crown Final Steel\Accounts.UI\bin\Release\POSInvoices\SampleRDLCCheck.rdlc
+D:\Crown Final Steel\Accounts.UI\bin\Release\SteelAccounts.UI.exe.config
+D:\Crown Final Steel\Accounts.UI\bin\Release\SteelAccounts.UI.exe
+D:\Crown Final Steel\Accounts.UI\bin\Release\SteelAccounts.UI.pdb
+D:\Crown Final Steel\Accounts.UI\bin\Release\Accounts.BLL.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\Accounts.EL.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.Shared.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\DocumentFormat.OpenXml.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\MetroFramework.Design.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\MetroFramework.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\MetroFramework.Fonts.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\SpreadsheetLight.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\System.Windows.Forms.Ribbon35.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\Accounts.DAL.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\AxShockwaveFlashObjects.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\ShockwaveFlashObjects.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\stdole.dll
+D:\Crown Final Steel\Accounts.UI\bin\Release\Accounts.BLL.pdb
+D:\Crown Final Steel\Accounts.UI\bin\Release\Accounts.Common.pdb
+D:\Crown Final Steel\Accounts.UI\bin\Release\Accounts.EL.pdb
+D:\Crown Final Steel\Accounts.UI\bin\Release\DocumentFormat.OpenXml.xml
+D:\Crown Final Steel\Accounts.UI\bin\Release\SpreadsheetLight.xml
+D:\Crown Final Steel\Accounts.UI\bin\Release\Accounts.DAL.pdb
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.csproj.AssemblyReference.cache
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountBalance.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccounts.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsOpeningBalanceByTypeAndHeads.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmAvailableModules.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPreviews.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmDatedCashPaidExpense.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSubHeadExpenses.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSubHeadExpensesDetail.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmAgingReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmBalanceSheet.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmBusinessVolume.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCashBook.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmClosingBalancesReports.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmDailyBusinessActivities.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmDayBook.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmDayBookDetail.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmFifoAgingReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPostDatedChequesDetail.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPostedDatedCheques.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmtest1.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersProfitAndLoss.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersProfitAndLossDetail.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomerWiseProductsProfitAndLoss.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyPurchasesReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlySalePurchaseDetailedReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmTopSellingAndReturningItems.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindOutSourceWorkType.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmOutSourceWorkTypes.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmOutSourceWork.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosPurchases.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosPurchasesReturn.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPurchases.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReturn.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmGroupingStockAnalysisReports.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPurchasePrintReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockAnalysisReports.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockIssuancePrintReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersSalesInvoices.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersWiseDetailedDiscountSummary.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomersWiseDiscountSummary.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmDistributionSales.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmDistributionSalesReturn.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmEmployeesMonthlyReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmInvoicesDateChange.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPartyWiseSaleSummary.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPointOfSale.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPOSInfoDialogue.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosReturn.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmProjectWiseDatedSales.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPosInvoice.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesMainSummaryWithReturn.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompanyProjectInfo.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmAllProductsInOutWithAvg.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmAllProductsWiseProfitLoss.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmProductWiseProfitLoss.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmProductsChart.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmUOM.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCategories.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmProjects.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReturnAdjustmentSetup.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCurrentStock.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmLowStock.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmProductLedger.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockRatesCalculation.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmGatePassReports.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmInventoryIssuance.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmUserActivityReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmAuthentication.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmChangePassword.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCompany.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmCustomerDiscount.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindAccounts.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmAccountsBalanceReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmBackup.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedJournalLedger.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmDetailedLedgerReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmExpenses.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindCategories.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindProductByBatchAndExpiry.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindTradingCo.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindVouchers.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmgeneralLedger.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmHeadsSetup.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmIncomeStatement.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmJournalVoucher.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmLedgerreport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmLogin.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmMain.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmMiniTrialBalance.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesPermissions.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmModulesRights.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimedVouchers.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlyClaimReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmMonthlySalesReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalance.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmOpeningBalancesByType.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPersons.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceList.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPriceListReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmPrintVouchers.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmProducts.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmRecoveryReport.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmReports.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSaleReports.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSales.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesManLedger.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSalesReturn.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleReports.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamples.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSampleSaleDays.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmSamplesReturn.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmFindProducts.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockItems.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmStockReceipt.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmtext.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalStock.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmTotalUsers.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmTradingCo.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmTrialBalance.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmUnpostedVouchers.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsers.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmUsersRoles.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.frmVouchers.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\SteelAccounts.UI.Properties.Resources.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.UserControls.EditBox.resources
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.csproj.GenerateResource.cache
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.csproj.CoreCompileInputs.cache
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\Accounts.UI.csproj.CopyComplete
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\SteelAccounts.UI.exe
+D:\Crown Final Steel\Accounts.UI\obj\x86\Release\SteelAccounts.UI.pdb

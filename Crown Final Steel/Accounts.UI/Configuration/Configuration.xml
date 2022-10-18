@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <TerminalConfiguration>
+    <TerminalNumber>1</TerminalNumber>
+    <TerminalName>First</TerminalName>    
+  </TerminalConfiguration>
+  <TaxConfiguration>
+    <TaxName>GST</TaxName>
+    <TaxRate>17</TaxRate>
+  </TaxConfiguration>
+</Configuration>

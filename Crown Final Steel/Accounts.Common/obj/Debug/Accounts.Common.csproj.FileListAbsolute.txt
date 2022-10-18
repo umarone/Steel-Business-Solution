@@ -1,0 +1,61 @@
+D:\CombineAssociatesPrescriber\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\CombineAssociatesPrescriber\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\CombineAssociatesPrescriber\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\CombineAssociatesPrescriber\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\CombineAssociatesPrescriber\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\MehboobTrading\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\MehboobTrading\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\MehboobTrading\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MehboobTrading\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\MehboobTrading\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\GojraAccount\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\GojraAccount\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\GojraAccount\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\GojraAccount\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\GojraAccount\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\Yousaf Traders\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\Yousaf Traders\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\Yousaf Traders\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Yousaf Traders\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\Yousaf Traders\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\J&J Pharma\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\J&J Pharma\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\J&J Pharma\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\J&J Pharma\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\J&J Pharma\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\Bader Gojra\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\Bader Gojra\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\Bader Gojra\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Bader Gojra\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\Bader Gojra\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\Lahore\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\Lahore\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\Lahore\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Lahore\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\Lahore\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\GreenTechnologySolutions\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\GreenTechnologySolutions\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\GreenTechnologySolutions\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\GreenTechnologySolutions\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\GreenTechnologySolutions\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\DeeJhons\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\DeeJhons\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\DeeJhons\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\DeeJhons\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\DeeJhons\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\PAKANDCORIAN\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\PAKANDCORIAN\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\PAKANDCORIAN\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\PAKANDCORIAN\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\PAKANDCORIAN\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\Final Accounts\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\Final Accounts\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\Final Accounts\Accounts.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Final Accounts\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\Final Accounts\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\Crown Final Ledger\Accounts.Common\bin\Debug\Accounts.Common.dll
+D:\Crown Final Ledger\Accounts.Common\bin\Debug\Accounts.Common.pdb
+D:\Crown Final Ledger\Accounts.Common\obj\Debug\Accounts.Common.dll
+D:\Crown Final Ledger\Accounts.Common\obj\Debug\Accounts.Common.pdb
+D:\Crown Final Ledger\Accounts.Common\obj\Debug\Accounts.Common.csproj.AssemblyReference.cache
+D:\Crown Final Ledger\Accounts.Common\obj\Debug\Accounts.Common.csproj.CoreCompileInputs.cache
